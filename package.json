@@ -1,6 +1,9 @@
 {
-  "name": "style-dictionary",
-  "version": "2.1.0",
+  "name": "@ccb-mds/ccb-mds-style-dictionary-fork",
+  "version": "2.2.0-pre",
+  "publishConfig": {
+    "registry": "https://frs-art.jpmchase.net/artifactory/MDS-npm/"
+  },
   "description": "Style once, use everywhere. A build system for creating cross-platform styles.",
   "keywords": [
     "style dictionary",
